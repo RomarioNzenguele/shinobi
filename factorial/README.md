@@ -1,7 +1,3 @@
-## Factorial 
-
-* Exemplo da série de exercícios do projecto wisinux. 
-
 ## Cálculo do Factorial de um determinado "Inteiro" . 
 
 **Este exercício exemplifica a aplicação dos seguintes itens:**

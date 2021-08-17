@@ -1,7 +1,3 @@
-## Exercício 2
-
-* Exemplo da série de exercícios do projecto wisinux. 
-
 ## Cálculo de uma equação do IIº grau 
 
 **Este exercício exemplifica a aplicação dos seguintes itens:**

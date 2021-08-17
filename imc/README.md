@@ -1,7 +1,3 @@
-## Exercício 1
-
-* Exemplo da série de exercícios do projecto wisinux. 
-
 ## Cálculo do ÍNDICE DE MASSA CORPORAL - IMC
 
 **Este exercício exemplifica a aplicação dos seguintes itens:**
