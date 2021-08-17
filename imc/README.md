@@ -1,18 +1,15 @@
-## Getting Started
+## Exercício 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+* Exemplo da série de exercícios do projecto wisinux. 
 
-## Folder Structure
+## Cálculo do ÍNDICE DE MASSA CORPORAL - IMC
 
-The workspace contains two folders by default, where:
+**Este exercício exemplifica a aplicação dos seguintes itens:**
+* Enumerações;
+* Classe "Math";
+* Formatação de Strings com a função "format"  
+* Fluxo condicional "if".
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Notas
+* As condições do IMC aplicadas basearam-se em:
+https://lh3.googleusercontent.com/proxy/_z6sSX9s2yIyf2X8OVnaDzv8guXqclLUCdQVU_Tliu8ORosgLbuHqIN6K5Z7G0yTMvGL0RT35AuTfcp1c2A6C4KsFyjm-0IgjJtTsl8jCpaPxNReBEw6Lwo
