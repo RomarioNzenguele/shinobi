@@ -1,9 +1,9 @@
-#Declaracao e atribuicao 
-x = input('x: ')
-y = input('y: ')
+# Declaracao e atribuicao
+x = int(input('Valor de x: '))
+y = int(input('Valor de y: '))
 
-#Troca dos valores
+# Troca dos valores
 x, y = y, x
 
-#Imprimindo o resultado
-print("\n**** Valores trocados\nx: " + x + "\ny: " + y+"\n")
+# Imprimindo o resultado
+print("\n**** Valores trocados\nx: {}, y: {}\n".format(x, y))

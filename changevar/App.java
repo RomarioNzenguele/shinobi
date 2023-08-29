@@ -3,15 +3,13 @@ import java.util.Scanner;
 public class App {
     public static void main(String args[]) {
         // Declaração das variáveis
-        int x;
-        int y;
+        int x, y;
 
         // Leitura dos dados
-        System.out.println("Leitura \n ");
         Scanner sc = new Scanner(System.in);
-        System.out.println("Valor de x:  ");
+        System.out.print("Valor de x:  ");
         x = sc.nextInt();
-        System.out.println("Valor de y:  ");
+        System.out.print("Valor de y:  ");
         y = sc.nextInt();
 
         // *** Trocar os valores
@@ -20,6 +18,7 @@ public class App {
         x = x - y; // Valor de y = total - y (anterior)
 
         // Imprimindo o resultado
-        System.out.println("\n**** Valores trocados\nx: " + x + "\ny: " + y);
+        System.out.printf("\n**** Valores trocados\n" +
+                "x: %d, y: %d\n", x, y);
     }
 }
